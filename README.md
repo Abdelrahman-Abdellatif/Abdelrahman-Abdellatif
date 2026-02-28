@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Turning physics, code, and ideas into machines.<br>📚 Currently developing my expertise in Embedded Linux and UAV systems.<br>🎯 Goals: Build autonomous robotic and UAV systems, master Embedded Linux and low-level system design, and establish a robotics and UAV startup focused on developing locally engineered autonomous platforms.<br>🎲 Fun fact: Most of my best engineering lessons came from fixing failures.</p>
+<p align="left">✨ Turning physics, code, and ideas into machines.<br>📚 Currently developing my expertise in Embedded Linux, Microcontrollers programming, and Robotics & Control.<br>🎯 Goals: Build autonomous robotics, master Embedded Linux and low-level system design<br>🎲 Fun fact: Most of my best engineering lessons came from fixing failures.</p>
 
 ###
 
