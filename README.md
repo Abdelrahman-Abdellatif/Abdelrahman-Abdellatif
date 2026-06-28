@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Turning physics, code, and ideas into machines.<br>📚 Currently developing my expertise in Embedded Linux, Microcontrollers programming, and Robotics & Control.<br>🎯 Goals: Build autonomous robotics, master Embedded Linux and low-level system design<br>🎲 Fun fact: Most of my best engineering lessons came from fixing failures.</p>
+<p align="left">✨ Turning physics, code, and ideas into machines.<br>📚 Currently developing my expertise in Embedded Linux, Microcontrollers programming, and Robotics.</p>
 
 ###
 
