@@ -1,28 +1,16 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey 👋 I'm Abdelrahman (Abou)</h1>
+
+<p align="left">Mechatronics engineer building embedded Linux systems — from bare-metal STM32 drivers to custom Yocto Linux images and ROS2. Bootlin-trained, currently deepening RTOS (FreeRTOS/Zephyr). Starting an MSc in Mechatronic Systems at VILNIUS TECH in September 2026.</p>
 
 ###
 
-<div align="center">
-  <img height="200" src="https://cdn.techinasia.com/wp-content/uploads/2016/04/Coding-carrot.gif"  />
-</div>
+<h2 align="left">🔭 Featured project</h2>
+
+<p align="left"><b><a href="https://github.com/Abdelrahman-Abdellatif/OpenMotion">OpenMotion</a></b> — a Klipper-inspired motion controller pairing bare-metal STM32 firmware with a custom Yocto Linux image on the STM32MP257F-DK. Interrupt-driven drivers written from the reference manual, a custom binary comms protocol, and a self-authored Yocto layer, cross-compiled and deployed to target hardware end to end.</p>
 
 ###
 
-<p align="left">I'm Abdelrahman — Abou works too. I'm a Mechatronics Engineer building robots, programming microcontrollers, and working with Embedded Linux to turn ideas into intelligent machines.</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Turning physics, code, and ideas into machines.<br>📚 Currently developing my expertise in Embedded Linux, Microcontrollers programming, and Robotics.</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
+<h2 align="left">🛠️ What I work with</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
@@ -31,39 +19,35 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="40" alt="embeddedc logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" height="40" alt="unix logo"  />
-</div>
-
-###
-
-<h2 align="left">Softwares & Skills</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="40" alt="qt logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
 </div>
 
+<p align="left">Yocto Project · BitBake · Buildroot · STM32 · ROS2 · UART/SPI/I2C/GPIO · Cross-compilation · Learning: FreeRTOS, Zephyr</p>
+
 ###
+
+<h2 align="left">📌 Other projects</h2>
+
+<p align="left">
+<b><a href="https://github.com/Abdelrahman-Abdellatif/mutanabi-yocto-rover">mutanabi-yocto-rover</a></b> — Yocto Linux distro + ROS2 navigation stack for the STM32MP257.<br>
+<b><a href="https://github.com/Abdelrahman-Abdellatif/yocto-embedded-linux">yocto-embedded-linux</a></b> — Bootlin STM32MP1 training labs, documented build-by-build.<br>
+<b><a href="https://github.com/Abdelrahman-Abdellatif/motor-safety-system">motor-safety-system</a></b> — fault-detection and shutdown logic for motor drivers in C.
+</p>
+
+###
+
+<h2 align="left">📫 Reach me</h2>
+
+<p align="left">
+<a href="https://www.linkedin.com/in/abdelrahman-abdellatif-93371a405/">LinkedIn</a> · abdelrahman0abdellatif@gmail.com
+</p>
