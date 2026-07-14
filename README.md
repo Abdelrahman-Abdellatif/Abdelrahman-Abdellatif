@@ -1,6 +1,6 @@
 <h1 align="left">Hey 👋 I'm Abdelrahman (Abou)</h1>
 
-<p align="left"> Mechatronics engineer, currently having MSc in Mechatronic Systems at VILNIUS TECH. building embedded Linux systems — from bare-metal STM32 drivers to custom Yocto Linux images and ROS2. full of passion in Software and kernel. 2026.</p>
+<p align="left"> Mechatronics engineer, currently having MSc in Mechatronic Systems at VILNIUS TECH. building embedded Linux systems — from bare-metal STM32 drivers to custom Yocto Linux images and ROS2. full of passion in Software and kernel.</p>
 
 ###
 
