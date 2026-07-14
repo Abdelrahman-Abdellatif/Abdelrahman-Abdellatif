@@ -1,12 +1,8 @@
 <h1 align="left">Hey 👋 I'm Abdelrahman (Abou)</h1>
 
-<p align="left">Mechatronics engineer building embedded Linux systems — from bare-metal STM32 drivers to custom Yocto Linux images and ROS2. Bootlin-trained, currently deepening RTOS (FreeRTOS/Zephyr). Starting an MSc in Mechatronic Systems at VILNIUS TECH in September 2026.</p>
+<p align="left"> Mechatronics engineer, currently having MSc in Mechatronic Systems at VILNIUS TECH. building embedded Linux systems — from bare-metal STM32 drivers to custom Yocto Linux images and ROS2. full of passion in Software and kernel. 2026.</p>
 
 ###
-
-<h2 align="left">🔭 Featured project</h2>
-
-<p align="left"><b><a href="https://github.com/Abdelrahman-Abdellatif/OpenMotion">OpenMotion</a></b> — a Klipper-inspired motion controller pairing bare-metal STM32 firmware with a custom Yocto Linux image on the STM32MP257F-DK. Interrupt-driven drivers written from the reference manual, a custom binary comms protocol, and a self-authored Yocto layer, cross-compiled and deployed to target hardware end to end.</p>
 
 ###
 
