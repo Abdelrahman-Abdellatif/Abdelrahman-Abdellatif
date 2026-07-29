@@ -1,49 +1,16 @@
-<h1 align="left">Hey 👋 I'm Abdelrahman (Abou)</h1>
+<h1 align="center">Hi 👋, I'm ABDELRAHMAN ABDELLATIF</h1>
+<h3 align="center">Making Linux boot on things it's never met before. MSc student in Mechatronic Systems at VILNIUS TECH, building embedded Linux systems from bare-metal STM32 drivers to custom Yocto images, kernels, and bootloaders — plus ROS2 on the side. A hardware lover with a real passion for software and the kernel.</h3>
 
-<p align="left"> Mechatronics engineer, currently having MSc in Mechatronic Systems at VILNIUS TECH. building embedded Linux systems — from bare-metal STM32 drivers to custom Yocto Linux images and ROS2. full of passion in Software and kernel.</p>
+- 👨‍💻 All of my projects are available at [https://github.com/Abdelrahman-Abdellatif](https://github.com/Abdelrahman-Abdellatif)
 
-###
+- 📝 I regularly write articles on [https://www.linkedin.com/in/abdelrahman-abdellatif-93371a405/](https://www.linkedin.com/in/abdelrahman-abdellatif-93371a405/)
 
-###
+- 📫 How to reach me **abdelrahman0abdellatif@gmail.com**
 
-<h2 align="left">🛠️ What I work with</h2>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="40" alt="embeddedc logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="40" alt="qt logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-</div>
-
-<p align="left">Yocto Project · BitBake · Buildroot · STM32 · ROS2 · UART/SPI/I2C/GPIO · Cross-compilation · Learning: FreeRTOS, Zephyr</p>
-
-###
-
-<h2 align="left">📌 Other projects</h2>
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<b><a href="https://github.com/Abdelrahman-Abdellatif/mutanabi-yocto-rover">mutanabi-yocto-rover</a></b> — Yocto Linux distro + ROS2 navigation stack for the STM32MP257.<br>
-<b><a href="https://github.com/Abdelrahman-Abdellatif/yocto-embedded-linux">yocto-embedded-linux</a></b> — Bootlin STM32MP1 training labs, documented build-by-build.<br>
-<b><a href="https://github.com/Abdelrahman-Abdellatif/motor-safety-system">motor-safety-system</a></b> — fault-detection and shutdown logic for motor drivers in C.
+<a href="https://linkedin.com/in/abdelrahman-abdellatif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelrahman-abdellatif" height="30" width="40" /></a>
 </p>
 
-###
-
-<h2 align="left">📫 Reach me</h2>
-
-<p align="left">
-<a href="https://www.linkedin.com/in/abdelrahman-abdellatif-93371a405/">LinkedIn</a> · abdelrahman0abdellatif@gmail.com
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> </p>
