@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ABDELRAHMAN ABDELLATIF</h1>
-<h3 align="center">Making Linux boot on things it's never met before. MSc student in Mechatronic Systems at VILNIUS TECH, building embedded Linux systems from bare-metal STM32 drivers to custom Yocto images, kernels, and bootloaders — plus ROS2 on the side. A hardware lover with a real passion for software and the kernel.</h3>
+<h3 align="center"> Making Linux boot on things it's never met before. MSc student in Mechatronic Systems at VILNIUS TECH, building embedded Linux systems from bare-metal STM32 drivers to custom Yocto images, kernels, and bootloaders — plus ROS2 on the side. A hardware lover with a real passion for software and the kernel.</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abdelrahman-Abdellatif](https://github.com/Abdelrahman-Abdellatif)
 
