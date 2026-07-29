@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3864,100:58A6FF&height=180&section=header&text=Abdelrahman%20Abdellatif&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Making+Linux+boot+on+things+it's+never+met+before.;Embedded+Linux+%7C+Kernels+%7C+Bootloaders;Bare-metal+STM32+%E2%86%92+Yocto+%E2%86%92+ROS2;Mechatronics+Engineer+%40+VILNIUS+TECH" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Making+Linux+boot+on+things+it's+never+met+before.;Embedded+Linux+%7C+Kernels+%7C+Bootloaders;Bare-metal+STM32+%7C+Yocto+%7C+Robotics;Mechatronics+Engineer+%40+VILNIUS+TECH" alt="Typing SVG" />
 
 </div>
 
@@ -10,8 +10,9 @@
 
 ### About Me
 
-- 🔧 Mechatronics engineer building embedded Linux systems end-to-end — from bare-metal STM32 drivers to custom Yocto images and ROS2
-- 🐧 Deep in kernels, bootloaders (TF-A/OP-TEE/U-Boot), and everything that happens before an OS even boots
+- 🔧 Mechatronics engineer building embedded Linux systems end-to-end — bare-metal STM32 drivers, custom Yocto images, and kernels/bootloaders (TF-A, OP-TEE, U-Boot)
+- 🤖 Also working with robotics: ROS2, navigation stacks, and closed-loop control systems
+- 🐧 Deep in kernels, bootloaders, and everything that happens before an OS even boots
 - 🎓 MSc student in Mechatronic Systems @ VILNIUS TECH
 - 📂 All my projects: **[github.com/Abdelrahman-Abdellatif](https://github.com/Abdelrahman-Abdellatif)**
 - 📫 Reach me at **abdelrahman0abdellatif@gmail.com**
@@ -42,12 +43,12 @@
 ### GitHub Stats
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Abdelrahman-Abdellatif&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelrahman-Abdellatif&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=Abdelrahman-Abdellatif&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Abdelrahman-Abdellatif&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdelrahman-Abdellatif&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=Abdelrahman-Abdellatif&theme=tokyonight&hide_border=true" />
 </p>
 
 <br>
