@@ -1,16 +1,55 @@
-<h1 align="center">Hi 👋, I'm ABDELRAHMAN ABDELLATIF</h1>
-<h3 align="center"> Making Linux boot on things it's never met before. MSc student in Mechatronic Systems at VILNIUS TECH, building embedded Linux systems from bare-metal STM32 drivers to custom Yocto images, kernels, and bootloaders — plus ROS2 on the side. A hardware lover with a real passion for software and the kernel.</h3>
+<div align="center">
 
-- 👨‍💻 All of my projects are available at [https://github.com/Abdelrahman-Abdellatif](https://github.com/Abdelrahman-Abdellatif)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3864,100:58A6FF&height=180&section=header&text=Abdelrahman%20Abdellatif&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/abdelrahman-abdellatif-93371a405/](https://www.linkedin.com/in/abdelrahman-abdellatif-93371a405/)
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Making+Linux+boot+on+things+it's+never+met+before.;Embedded+Linux+%7C+Kernels+%7C+Bootloaders;Bare-metal+STM32+%E2%86%92+Yocto+%E2%86%92+ROS2;Mechatronics+Engineer+%40+VILNIUS+TECH" alt="Typing SVG" />
 
-- 📫 How to reach me **abdelrahman0abdellatif@gmail.com**
+</div>
 
-<h3 align="left">Connect with me:</h3>
+<br>
+
+### About Me
+
+- 🔧 Mechatronics engineer building embedded Linux systems end-to-end — from bare-metal STM32 drivers to custom Yocto images and ROS2
+- 🐧 Deep in kernels, bootloaders (TF-A/OP-TEE/U-Boot), and everything that happens before an OS even boots
+- 🎓 MSc student in Mechatronic Systems @ VILNIUS TECH
+- 📂 All my projects: **[github.com/Abdelrahman-Abdellatif](https://github.com/Abdelrahman-Abdellatif)**
+- 📫 Reach me at **abdelrahman0abdellatif@gmail.com**
+
+<br>
+
+### Connect
+
 <p align="left">
-<a href="https://linkedin.com/in/abdelrahman-abdellatif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelrahman-abdellatif" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abdelrahman-abdellatif-93371a405" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:abdelrahman0abdellatif@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> </p>
+<br>
+
+### Languages & Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=c,cpp,python,bash,linux,git,docker,rust,qt,arduino,matlab,figma" />
+</p>
+
+<br>
+
+### GitHub Stats
+
+<p align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Abdelrahman-Abdellatif&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelrahman-Abdellatif&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdelrahman-Abdellatif&theme=tokyonight&hide_border=true" />
+</p>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1F3864&height=100&section=footer" width="100%"/>
