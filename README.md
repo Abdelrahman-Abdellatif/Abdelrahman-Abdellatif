@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3864,100:58A6FF&height=180&section=header&text=Abdelrahman%20Abdellatif&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Making+Linux+boot+on+things+it's+never+met+before.;Embedded+Linux+%7C+Kernels+%7C+Bootloaders;Bare-metal+STM32+%7C+Yocto+%7C+Robotics;Mechatronics+Engineer+%40+VILNIUS+TECH" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Making+Linux+boot+on+things+it's+never+met+before.;Embedded+Linux+%7C+Kernels+%7C+Bootloaders;Bare-metal+STM32+%7C+Yocto+%7C+Robotics;Computer+Engineer+%40+VILNIUS+TECH" alt="Typing SVG" />
 
 </div>
 
