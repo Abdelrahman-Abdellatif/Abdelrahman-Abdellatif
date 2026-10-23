@@ -1,8 +1,7 @@
 <div align="center">
-<img src="./terminal.svg" alt="Linux terminal: whoami, uname, skills.conf, dmesg" width="760"/>
+<img src="./terminal11.svg" alt="Linux terminal: whoami, uname, skills.conf, dmesg" width="760"/>
 <br><br>
  
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Making+Linux+boot+on+things+it's+never+met+before.;Embedded+Linux+%7C+Kernels+%7C+Bootloaders;Bare-metal+STM32+%7C+Yocto+%7C+Robotics;Computer+Engineer+%40+VILNIUS+TECH" alt="Typing SVG" />
 </div>
 <br>
 
